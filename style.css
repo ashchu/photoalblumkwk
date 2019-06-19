@@ -48,3 +48,8 @@ h1{
   margin: 10px;
   float: left;
 }
+
+@media screen and (max-width: 900px) {
+  .images{
+padding-left: 20px;
+}
