@@ -50,6 +50,7 @@ h1{
 }
 
 @media screen and (max-width: 900px) {
-  .images{
-padding-left: 20px;
+   .images{
+     padding-left: 20px;
+  }
 }
